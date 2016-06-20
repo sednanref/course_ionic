@@ -1,0 +1,7 @@
+-
+	npm install cordova ionic -g
+		To install cordova and ionic framework.
+	ionic start conFusion sidemenu
+		To scaffold out a new Ionic project, type the following at the command prompt:
+	ionic serve
+		To see the resulting project in your browser, type the following at the command prompt:
