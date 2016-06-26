@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["6alhU"]); }
+
+__d('ReactComposerSellAttachmentBootstrapper',['ReactComposerAutosSellActions','ReactComposerSellActions','ReactComposerStatusActions'],function a(b,c,d,e,f,g){if(c.__markCompiled)c.__markCompiled();var h={bootstrap:function(i,j){c('ReactComposerSellActions').setConfig(i,j);c('ReactComposerAutosSellActions').setConfig(i,j);c('ReactComposerStatusActions').setMentionsSource(i,j.mentionsSource);},bootstrapForNLUIntercept:function(i,j){c('ReactComposerSellActions').setCurrency(i,j.currency);c('ReactComposerSellActions').savePickupNote(i,j.pickupNote);c('ReactComposerSellActions').setShouldShowNLUInterceptNUX(i,j.showInterceptNux);}};f.exports=h;},null);
+__d("XPageAdminEditSaveController",["XController"],function a(b,c,d,e,f,g){c.__markCompiled&&c.__markCompiled();f.exports=c("XController").create("\/pages\/admin\/info\/edit\/save\/",{admin_edit_context:{type:"String"}});},null);
